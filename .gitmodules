@@ -1,0 +1,3 @@
+[submodule "first-git-repo-rm"]
+	path = first-git-repo-rm
+	url = https://github.com/bngams/first-git-repo-rm.git
